@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: Response to "Something Big Is Happening" by Matt Shumer
+subtitle: It's gonna change everything, we promise. Now give us your money. 
+cover-img: /assets/img/amazingstories.jpg
+thumbnail-img: /assets/img/amz.jpg
+share-img: /assets/img/amazingstories.jpg
+tags: [AI, LLMs]
+author: Gidon Kaminer
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
