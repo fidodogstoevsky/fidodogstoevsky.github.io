@@ -11,7 +11,17 @@ author: Gidon Kaminer
 
 # Response to Matt Shumer article
 
-[This](https://shumer.dev/something-big-is-happening) post [has](https://www.businessinsider.com/matt-shumer-something-big-is-happening-essay-ai-disruption-2026-2) been [making](https://www.ndtv.com/feature/ai-could-replace-50-of-entry-level-white-collar-jobs-within-5-years-warns-tech-ceo-10989453) the [rounds](https://www.inc.com/justin-bariso/ai-founder-viral-5000-word-post-ai-bigger-than-covid-change-the-world-what-you-need-to-know/91301159), apparently 60 million views or something. 
+[This](https://shumer.dev/something-big-is-happening) article [has](https://www.businessinsider.com/matt-shumer-something-big-is-happening-essay-ai-disruption-2026-2) been [making](https://www.ndtv.com/feature/ai-could-replace-50-of-entry-level-white-collar-jobs-within-5-years-warns-tech-ceo-10989453) the [rounds](https://www.inc.com/justin-bariso/ai-founder-viral-5000-word-post-ai-bigger-than-covid-change-the-world-what-you-need-to-know/91301159), apparently 100 million views or something. It's a cliche yet overall compelling piece of science fiction writing. 
+
+
+
+
+
+
+
+
+
+### text
 
 Shumer begins along the lines of "You didn't think covid would be world-altering and then it was. Similarly, you don't think AI will be a world-altering, but it will be." He doesn't actually look into why 
 
@@ -84,11 +94,16 @@ These new models certainly have impressive capabilities, they can execute tasks 
 
 But these impressive capabilities are not a sign of a quantum leap in the models themselves. The core technology of LLMs hasn't fundamentally changed in the last few years. Rather, companies are packaging LLMs in architectures for iterating, dicking around with files, etc. It's an engineering pipeline
 
+it's the harness
+
+
 ### Background: Matt Shumer is a con-artist
 
-I purposelly left this for the end, to eschew ad hominem and just engage with the post's content. Now that I've gone through the text, I'm at liberty to say that
+In writing this I wanted to engage with the points made in the article itself, rather than resort to ad hominem character attacks. But now that I've gone through the text, I'm at liberty to say that Matt Shumer is a charlatan who should be ignored. 
 
-Matt Shumer has a vested interest in AI. He's the CEO of an [AI company](https://www.hyperwriteai.com/). He has a product to sell. 
+For starters, Matt Shumer has a vested interest in the proliferation of AI in white collar work. He's the CEO of an [AI company](https://www.hyperwriteai.com/) whose main product is an AI writing assistant. His market isn't software developers, it's office workers at large. He has a product to sell them. He needs to convince them that his product is Claude Code but for all white collar work. Which, for reasons discussed above, it is not and cannot be. 
 
 
-Matt Shumer is [widely known](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations) in the AI community as a prolific liar and scammer. In September 2024 he released a model called [Reflection 70B](https://reflection70b.com/), which he claimed is "hallucination-free" and "the world's top open-source model". He credited 
+Additionally, Matt Shumer is widely known in the AI community as a [prolific liar and scammer]([](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations)). In September 2024 he released a model called [Reflection 70B](https://reflection70b.com/), which he claimed was "hallucination-free" and "the world's top open-source model". He credited these advancements to a supposedly innovative "Reflection-Tuning" technology wherein the model works aloud through its thought process and corrects its mistakes. Along with the model, he published statistics indicating world-class performance on evaluative benchmarks. 
+
+It didn't take long for people to download Reflection, run the tests themselves, and find that its [performance was actually worse](https://venturebeat.com/ai/new-open-source-ai-leader-reflection-70bs-performance-questioned-accused-of-fraud) than Meta's Llama 3.1 70B, the open-source model it was built upon. 
