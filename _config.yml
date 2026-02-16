@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: This Turing Machine Kills Fascists
 
 # Your name to show in the footer
 author: Gidon Kaminer
@@ -21,10 +21,10 @@ author: Gidon Kaminer
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,7 +53,7 @@ social-network-links:
   email: "gidon (dot) kaminer (at) gmail (dot) com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: fidodogstoevsky
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Gidon Kaminer website
 
 ###########################
 # --- General options --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://fidodogstoevsky.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Boston"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
