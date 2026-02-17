@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Response to "Something Big Is Happening" by Matt Shumer
-subtitle: It's gonna change everything, we promise. Now give us your money. 
+title: PANIC! TERROR! DREAD! Ok, NOW will you give me your money?
+subtitle: Response to Matt Shumer's "Something Big Is Happening"
 cover-img: /assets/img/amazingstories.jpg
 thumbnail-img: /assets/img/amz.jpg
 share-img: /assets/img/amazingstories.jpg
@@ -11,12 +11,37 @@ author: Gidon Kaminer
 
 # Response to Matt Shumer article
 
-[This](https://shumer.dev/something-big-is-happening) article [has](https://www.businessinsider.com/matt-shumer-something-big-is-happening-essay-ai-disruption-2026-2) been [making](https://www.ndtv.com/feature/ai-could-replace-50-of-entry-level-white-collar-jobs-within-5-years-warns-tech-ceo-10989453) the [rounds](https://www.inc.com/justin-bariso/ai-founder-viral-5000-word-post-ai-bigger-than-covid-change-the-world-what-you-need-to-know/91301159), apparently 100 million views or something. It's a cliche yet overall compelling piece of science fiction writing. 
+[This](https://shumer.dev/something-big-is-happening) article [has](https://www.businessinsider.com/matt-shumer-something-big-is-happening-essay-ai-disruption-2026-2) been [making](https://www.ndtv.com/feature/ai-could-replace-50-of-entry-level-white-collar-jobs-within-5-years-warns-tech-ceo-10989453) the [rounds](https://www.inc.com/justin-bariso/ai-founder-viral-5000-word-post-ai-bigger-than-covid-change-the-world-what-you-need-to-know/91301159). It's a compelling sci fi short story that would be right at home in a 50s pulp mag. Unfortunately it's been read by over 100 million people (supposedly)
+
+
++ "deliberate choice", intelligence explosion
+
+no, it's just good at coding because it's a restricted domain and there's github sourcecode to scrape
+
+the tasks are well defined
+
+with code, you can run it to verify if it works. So the AI can verify by itself whether it works or not. can't do this with open questions
+
+they're salivating at the prospect of AI making genuine discoveries to accelerate AI, they jump on things like AI discovering new proofs etc, but none of these are actually new
+
++ what happened in software will happen to everything
+
+no, because software is a restricted domain. there's no github for all white collar work
+
+
++ it has "taste", "judgement" - just an aggregate of others' tastes
+
++ claude code is impressive, the models are so much better now
+
+the thing that's revolutionary is the harness, the pipelines, the way the models are orchestrated. this is all meta to the models themselves, it's built to check itself
+
+they wanna think that the models themselves are actually getting exponentially better, but right now it's still the same LLM tech, just slightly better models, the improvements are in how they're used
 
 
 
+He argues that AI labs purposefully started by training their models 
 
-
+> The AI labs made a deliberate choice. They focused on making AI great at writing code first... because building AI requires a lot of code. If AI can write that code, it can help build the next version of itself. A smarter version, which writes better code, which builds an even smarter version. Making AI great at coding was the strategy that unlocks everything else. That's why they did it first.
 
 
 
@@ -101,9 +126,20 @@ it's the harness
 
 In writing this I wanted to engage with the points made in the article itself, rather than resort to ad hominem character attacks. But now that I've gone through the text, I'm at liberty to say that Matt Shumer is a charlatan who should be ignored. 
 
-For starters, Matt Shumer has a vested interest in the proliferation of AI in white collar work. He's the CEO of an [AI company](https://www.hyperwriteai.com/) whose main product is an AI writing assistant. His market isn't software developers, it's office workers at large. He has a product to sell them. He needs to convince them that his product is Claude Code but for all white collar work. Which, for reasons discussed above, it is not and cannot be. 
+For starters, Matt Shumer has a vested interest in the proliferation of AI in white collar work. He's the CEO of an [AI company](https://www.hyperwriteai.com/) whose main product is an AI writing assistant. His market isn't software developers, it's office workers at large. He has a product to sell them. He needs to convince them that his product is Claude Code but for all white collar work. Which, for reasons discussed above, it is not and cannot be. ### MORE
 
 
 Additionally, Matt Shumer is widely known in the AI community as a [prolific liar and scammer]([](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations)). In September 2024 he released a model called [Reflection 70B](https://reflection70b.com/), which he claimed was "hallucination-free" and "the world's top open-source model". He credited these advancements to a supposedly innovative "Reflection-Tuning" technology wherein the model works aloud through its thought process and corrects its mistakes. Along with the model, he published statistics indicating world-class performance on evaluative benchmarks. 
 
-It didn't take long for people to download Reflection, run the tests themselves, and find that its [performance was actually worse](https://venturebeat.com/ai/new-open-source-ai-leader-reflection-70bs-performance-questioned-accused-of-fraud) than Meta's Llama 3.1 70B, the open-source model it was built upon. 
+It didn't take long for people to download Reflection, run the tests themselves, and find that its [performance was actually worse](https://venturebeat.com/ai/new-open-source-ai-leader-reflection-70bs-performance-questioned-accused-of-fraud) than Meta's Llama 3.1 70B, the open-source model it was built upon. Shumer attributed the performance discrepancy to "something got fucked up during the upload process", promised to release the supposedly corrected model but never actually did. 
+
+trained on benchmark data to optimize for benchmarks
+
+just a Claude Sonnet-3.5 wrapper with a lazy filter to remove "Claude" from answers
+
+Why was Shumer so desperate to [generate hype](https://venturebeat.com/ai/meet-the-new-most-powerful-open-source-ai-model-in-the-world-hyperwrites-reflection-70b)
+
+
+was an investor in now defunct [GlaiveAI](https://glaive.ai/), attributed the success of his model to the AI generated datasets they provide
+
+This guy isn't even in it for the long con. He's just looking to cash out as quickly as possible. And if that means fabricating performance metrics to inflate the value of a company he owns stock in, he will do that. 
